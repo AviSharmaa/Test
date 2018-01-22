@@ -1,0 +1,4 @@
+HRStop.com- 	learn about HRStop and it's features and services which it is providing and few that it will provide.
+git-		learn about Repositories and branches.
+Notepad-	making the log of working.
+github-		installing the github.
