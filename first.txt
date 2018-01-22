@@ -1,0 +1,11 @@
+System.out.println("Ravi");
+
+Java
+variable:-
+Instance v
+Static v
+Local v
+
+
+Methods
+Classes:-
